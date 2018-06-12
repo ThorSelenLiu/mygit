@@ -1,2 +1,4 @@
 当前目录为 "工作区"
 .git文件夹为 "版本库"
+-------------------------
+D:\SoftWare\BigData\SoftWare\git\version_repository 此目录下为工作区
